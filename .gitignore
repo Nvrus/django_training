@@ -210,3 +210,5 @@ ENV/
 
 # mkdocs documentation
 /site
+
+/Udemi/.env.py
